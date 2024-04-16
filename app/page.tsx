@@ -18,34 +18,12 @@ export default function Home() {
               </div>
               <div className="grid grid-cols-1 lg:grid-cols-4 md:grid-cols-2 gap-8">
                 <ServiceCard
-                  img={
-                    <Image
-                      src="/shopify-svc.webp"
-                      alt="test"
-                      width={344}
-                      height={229}
-                      style={{
-                        width: "100%",
-                        height: "auto",
-                      }}
-                    />
-                  }
+                  img="/shopify-svc.webp"
                   link=""
                   desc="Shopify Theme customization"
                 />
                 <ServiceCard
-                  img={
-                    <Image
-                      src="/shopify-svc.webp"
-                      alt="test"
-                      width={344}
-                      height={229}
-                      style={{
-                        width: "100%",
-                        height: "auto",
-                      }}
-                    />
-                  }
+                  img="/shopify-svc.webp"
                   link=""
                   desc=" Wordpress WooCommerce customization"
                 />
