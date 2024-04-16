@@ -24,7 +24,7 @@ export default function Home() {
                 <ServiceCard
                   img="/shopify-svc.jpg"
                   link=""
-                  desc="WooCommerce customization"
+                  desc=" Wordpress WooCommerce customization"
                 />
               </div>
             </div>
