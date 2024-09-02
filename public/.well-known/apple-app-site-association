@@ -2,7 +2,7 @@
     "applinks": {
         "details": [
             {
-                "appIDs": ["8P7HUJ5YMK.com.vdolita.StatusBond"],
+                "appIDs": ["8P7HUJ5YMK.com.vdolita.StatusBond", "8P7HUJ5YMK.com.vdolita.StatusBond.Dev"],
                 "components": [
                     {
                         "/": "/asb/follow",
