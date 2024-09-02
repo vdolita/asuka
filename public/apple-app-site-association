@@ -1,0 +1,15 @@
+{
+    "applinks": {
+        "details": [
+            {
+                "appIDs": ["8P7HUJ5YMK.com.vdolita.StatusBond"],
+                "components": [
+                    {
+                        "/": "/asb/follow",
+                        "comment": "Matches StatusBond app Follow url"
+                    }
+                ]
+            }
+        ]
+    }
+}
