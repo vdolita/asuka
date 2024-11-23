@@ -1,0 +1,14 @@
+[
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "com.vdolita.statusbond",
+            "sha256_cert_fingerprints": [
+                "F1:53:51:91:A6:F6:02:F8:AB:0B:2A:45:41:17:56:1B:8C:05:CE:BB:18:44:5F:2F:C4:5C:7F:29:15:5A:BA:A9"
+            ]
+        }
+    }
+]
