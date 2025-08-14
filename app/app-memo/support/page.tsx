@@ -1,14 +1,14 @@
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Support - Random Gua",
-  description: "Get help and support for the Random Gua app via email.",
+  title: "Support - AppMemo",
+  description: "Get help and support for the AppMemo app via email.",
   robots: { index: true, follow: true },
-  alternates: { canonical: "/random-gua/support" },
+  alternates: { canonical: "/app-memo/support" },
   openGraph: {
-    title: "Support - Random Gua",
-    description: "Contact support for Random Gua at vdolita.help@outlook.com.",
-    url: "/random-gua/support",
+    title: "Support - AppMemo",
+    description: "Contact support for AppMemo at vdolita.help@outlook.com.",
+    url: "/app-memo/support",
     type: "website",
   },
 };
@@ -21,7 +21,7 @@ export default function SupportPage() {
       <section className="mb-8">
         <h2 className="text-2xl font-semibold mb-4">Contact Us</h2>
         <p className="mb-4">
-          If you need help with Random Gua or have any questions, please
+          If you need help with AppMemo or have any questions, please
           don&apos;t hesitate to contact us. We&apos;re here to help!
         </p>
         <div className="bg-gray-50 p-4 rounded-lg">

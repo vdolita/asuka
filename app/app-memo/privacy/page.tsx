@@ -1,16 +1,16 @@
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Privacy Policy - Random Gua",
+  title: "Privacy Policy - AppMemo",
   description:
-    "Random Gua Privacy Policy. Effective Date: 2025-01-01. Includes details about local storage and optional iCloud sync.",
+    "AppMemo Privacy Policy. Effective Date: 2025-01-01. Includes details about local storage and optional iCloud sync.",
   robots: { index: true, follow: true },
-  alternates: { canonical: "/random-gua/privacy" },
+  alternates: { canonical: "/app-memo/privacy" },
   openGraph: {
-    title: "Privacy Policy - Random Gua",
+    title: "Privacy Policy - AppMemo",
     description:
-      "Random Gua Privacy Policy. Effective Date: 2025-01-01. Includes details about local storage and optional iCloud sync.",
-    url: "/random-gua/privacy",
+      "AppMemo Privacy Policy. Effective Date: 2025-01-01. Includes details about local storage and optional iCloud sync.",
+    url: "/app-memo/privacy",
     type: "article",
   },
 };
@@ -26,7 +26,7 @@ export default function PrivacyPolicy() {
         <strong>Last Updated:</strong> 2025-01-01
       </p>
       <p className="mb-4">
-        <strong>Random Gua</strong> (&quot;the App&quot;) is developed and
+        <strong>AppMemo</strong> (&quot;the App&quot;) is developed and
         maintained by <strong>ChengHui Lai</strong> (&quot;we,&quot;
         &quot;our,&quot; or &quot;us&quot;). We value your privacy and are
         committed to protecting your personal data. This Privacy Policy outlines
